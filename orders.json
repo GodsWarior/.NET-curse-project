@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "idClient": 2,
+    "idProduct": 3,
+    "date": "2024-05-19",
+    "rentalTime": 130
+  },
+  {
+    "id": 2,
+    "idClient": 1,
+    "idProduct": 1,
+    "date": "2024-05-16",
+    "rentalTime": 190
+  },
+  {
+    "id": 3,
+    "idClient": 5,
+    "idProduct": 5,
+    "date": "2023-08-09",
+    "rentalTime": 9876
+  },
+  {
+    "id": 5,
+    "idClient": 8,
+    "idProduct": 6,
+    "date": "2024-05-22",
+    "rentalTime": 130
+  }
+]

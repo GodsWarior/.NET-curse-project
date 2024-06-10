@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "\u041C\u0438\u0445\u0430\u0438\u043B \u0411\u0443\u043B\u0433\u0430\u043A\u043E\u0432",
+    "email": "mihailbulgakov@mail.ru",
+    "phone": "\u002B375445673849"
+  },
+  {
+    "id": 2,
+    "name": "\u0418\u0432\u0430\u043D \u0418\u0432\u0430\u043D\u043E\u0432",
+    "email": "ivanovivan@mail.ru",
+    "phone": "\u002B375297648390"
+  },
+  {
+    "id": 3,
+    "name": "\u041D\u0438\u043A\u043E\u043B\u0430\u0439 \u0413\u043E\u0433\u043E\u043B\u044C",
+    "email": "mertviedushi@mail.ru",
+    "phone": "\u002B375298769036"
+  },
+  {
+    "id": 4,
+    "name": "\u041B\u0435\u0432 \u0422\u043E\u043B\u0441\u0442\u043E\u0439",
+    "email": "stoyaldub@mail.ru",
+    "phone": "\u002B375295557689"
+  },
+  {
+    "id": 5,
+    "name": "\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u0414\u0443\u0440\u044C",
+    "email": "bivaetitakoe@mail.ru",
+    "phone": "\u002B375298763948"
+  },
+  {
+    "id": 6,
+    "name": "\u0413\u0435\u043E\u0440\u0433\u0438\u0439 \u0416\u0443\u043A\u043E\u0432",
+    "email": "generalisimus@mail.ru",
+    "phone": "\u002B375298760940"
+  },
+  {
+    "id": 7,
+    "name": "\u0413\u0440\u0438\u0433\u043E\u0440\u0438\u0439 \u041A\u0432\u0430\u0441\u043E\u0432",
+    "email": "lukils@mail.ru",
+    "phone": "\u002B375293764759"
+  },
+  {
+    "id": 8,
+    "name": "\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0435\u0434\u0432\u0435\u0434\u0441\u043A\u0438\u0439",
+    "email": "curseproject@mail.ru",
+    "phone": "\u002B375293787894"
+  },
+  {
+    "id": 9,
+    "name": "\u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432 \u041F\u0435\u0442\u0443\u0448\u043A\u043E\u0432",
+    "email": "forouy@mail.ru",
+    "phone": "\u002B375448976543"
+  }
+]
